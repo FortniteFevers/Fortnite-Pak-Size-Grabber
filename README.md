@@ -1,5 +1,5 @@
-# Fortnite-Pak-Size-Grabber
-Automatically grab the sizes of your Fortnite pak files!
+# Fortnite Pak Size Grabber
+A simple program to automatically grab the sizes of your Fortnite pak files!
 
 # Installation
 
