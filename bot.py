@@ -36,7 +36,7 @@ try:
                 lol = lol/1024 # Convertes the bytes to kb
                 lol = lol/1000 # Converts the kb to mb
                 lol = round(lol, 1) # Rounds it up so theres no ugly decimals
-                file = file.replace('.ucas', '')
+                file = file.replace(FileFormat, '')
                 uh = len(FortniteGamePath)
                 print(f'\n'+Fore.GREEN+f'{file} - '+Fore.YELLOW+f'{lol}mb')
                 counter = counter + 1
