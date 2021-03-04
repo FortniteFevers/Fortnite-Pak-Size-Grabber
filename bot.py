@@ -1,7 +1,8 @@
 import os
 import math
 import colorama
-from colorama import Fore
+from colorama import *
+init()
 import time
 
 #---------------#
